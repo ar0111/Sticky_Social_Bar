@@ -1,0 +1,40 @@
+.icon-bar{
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.icon-bar a{
+    display: block;
+    text-align: center;
+    padding: 17px;
+    font-size: 20px;
+    color: white;
+}
+.icon-bar a:hover{
+    background-color: black;
+}
+
+.content{
+    margin-left: 100px;
+    font-size: 30px;
+}
+
+.facebook{
+    background-color: rgba(12, 45, 194, 0.863);
+}
+
+.twitter{
+    background-color:rgba(11, 181, 211, 0.705);
+}
+
+.google{
+    background-color: rgb(243, 65, 34);
+}
+
+.linkedin{
+    background-color: rgb(2, 83, 158);
+}
+
+.youtube{
+    background-color: brown;
+}
